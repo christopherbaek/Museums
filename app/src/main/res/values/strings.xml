@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Museums</string>
+    <string name="what_should_i_do_button_text">What Should I Do?</string>
+    <string name="next_museum_button_text">Next</string>
 </resources>
